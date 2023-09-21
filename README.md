@@ -15,8 +15,9 @@
 - [junojuno](https://github.com/juno-junho)
 
 규칙 
-- springBoot 3 버전 사용
-- spring security 6 버전 사용
+- Spring Boot 3 버전 사용
+- Spring Security 6 버전 사용
 - [공식문서](https://docs.spring.io/spring-security/reference/index.html) 참고
+- [홍박사님 블로그](https://whatistudy.tistory.com/) 참고
 - 기능 구현 못한다? 커피 + 도넛
 - 기능 구현 한다? 홍박사님의 칭찬 스티커
