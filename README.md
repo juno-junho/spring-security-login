@@ -13,3 +13,10 @@
 참여자 
 - [ddongpuri](https://github.com/ddongpuri?tab=following)
 - [junojuno](https://github.com/juno-junho)
+
+규칙 
+- spring 3 버전 사용
+- spring security 6 버전 사용
+- [공식문서](https://docs.spring.io/spring-security/reference/index.html) 참고
+- 기능 구현 못한다? 커피 + 도넛
+- 기능 구현 한다? 홍박사님의 칭찬 스티커
